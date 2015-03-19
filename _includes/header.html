@@ -1,5 +1,5 @@
 <header class="site-header">
-    <script type="text/javascript" src="/javascript/header.js"></script>
+
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">
@@ -15,12 +15,14 @@
         </svg>
       </a>
 
-      <div class="trigger">
+      <div class="trigger" id="menu">
+          <ul>
         {% for page in site.pages %}
           {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          <li><a id="{{page.title}}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
           {% endif %}
         {% endfor %}
+          </ul>
       </div>
     </nav>
 

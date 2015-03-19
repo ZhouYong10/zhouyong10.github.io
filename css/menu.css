@@ -1,0 +1,52 @@
+#menu {
+    height: 45px;
+}
+#menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+#menu ul li {
+    float: left; /* 菜单子元素的内容超出不可见 */
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    line-height: 45px;
+}
+#menu ul li a {
+    position: relative;/* 必须是相对定位  */
+    display: block;
+    width: 110px;
+    height: 45px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+}
+#menu ul li a span {
+/* 所有层将使用绝对定位 */  position: absolute;
+    left: 0;
+    width: 110px;
+}
+#menu ul li a span.out {
+    top: 0px;
+}
+#menu ul li a span.over,  #menu ul li a span.bg {
+/* 起初.over层和.bg层相对a元素-45px以达到隐藏 */
+    top: -45px;
+}
+
+/** 完整版示例 **/
+
+#menu ul li a {
+    color: #000;
+}
+#menu ul li a span.over {
+    color: #FFF;
+}
+#menu ul li span.bg {
+    height: 45px;
+    background: url(/images/bg_over.gif) center center no-repeat;
+}
+
