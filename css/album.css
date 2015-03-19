@@ -74,3 +74,11 @@ body {
     padding-left: 12px;
     cursor: pointer;
 }
+
+.album-back{
+    text-decoration: none;
+    color:#800080;
+}
+.album-back:hover{
+    color:#fdd;
+}
