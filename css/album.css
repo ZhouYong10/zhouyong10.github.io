@@ -76,9 +76,30 @@ body {
 }
 
 .album-back{
+    margin: 0;
+    padding: 0;
     text-decoration: none;
     color:#800080;
+    display: flex;
 }
+
+.album-back h2{
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
 .album-back:hover{
     color:#fdd;
+}
+
+.album-style{
+    padding-left: 50px;
+    font-size: 16px;
+    text-decoration: none;
+    color: #ffaaaa;
+}
+
+.album-style:hover{
+    color: aqua;
 }
