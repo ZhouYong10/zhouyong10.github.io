@@ -15,7 +15,7 @@ $(document).ready(function() {
         // 鼠标经过时候被触发的函数
         $(".out",this).stop().animate({'top':'45px'},250); // 向下滑动 - 隐藏
         $(".over",this).stop().animate({'top':'0px'},250); // 向下滑动 - 显示
-        $(".bg",this).stop().animate({'top':'0px'},	120); // 向下滑动 - 显示
+        $(".bg",this).stop().animate({'top':'10px'},	120); // 向下滑动 - 显示
     }, function() {
         // 鼠标移出时候被触发的函数
         $(".out",this).stop().animate({'top':'0px'},250); // 向上滑动 - 显示
@@ -29,7 +29,7 @@ $(document).ready(function() {
             $(this).attr('id','aim');
             $('.out',this).css('top','45px');
             $('.over',this).css('top','0px');
-            $('.bg',this).css('top','0px');
+            $('.bg',this).css('top','10px');
             $('#aim').unbind();
         }
     });

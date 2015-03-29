@@ -46,7 +46,11 @@
     color: #FFF;
 }
 #menu ul li span.bg {
-    height: 45px;
-    background: url(/images/bg_over.gif) center center no-repeat;
+    position: absolute;
+    left: 5px;
+    height: 25px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: #44AAF4;
 }
 
