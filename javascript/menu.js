@@ -2,7 +2,6 @@
  * Created by zhouyong on 3/18/15.
  */
 $(document).ready(function() {
-    /* 	完整版示例	*/
 
     // 把每个a中的内容包含到一个层（span.out）中，在span.out层后面追加背景图层（span.bg）
     $("#menu li a").wrapInner( '<span class="out"></span>' ).append( '<span class="bg"></span>' );
@@ -34,4 +33,6 @@ $(document).ready(function() {
             $('#aim').unbind();
         }
     });
+
+    
 });
