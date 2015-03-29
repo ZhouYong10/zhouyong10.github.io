@@ -32,29 +32,44 @@
   -webkit-animation:portrait 10s linear infinite ;
   /* Opera: */
   -o-animation:portrait 10s linear infinite ;
+//  IE
+  -ms-animation:portrait 10s linear infinite ;
+}
+
+.portrait:hover{
+  cursor: pointer;
+}
+
+.pause{
+  animation-play-state:paused;
+  -moz-animation-play-state:paused;
+  -webkit-animation-play-state:paused;
+  -o-animation-play-state:paused;
+  -ms-animation-play-state:paused;
 }
 
 @keyframes portrait
 {
-  0%   {transform: rotate(0deg);}
   100% {transform: rotate(360deg);}
 }
 
 @-moz-keyframes portrait /* Firefox */
 {
-  0%   {transform: rotate(0deg);}
   100% {transform: rotate(360deg);}
 }
 
 @-webkit-keyframes portrait /* Safari and Chrome */
 {
-  0%   {transform: rotate(0deg);}
   100% {transform: rotate(360deg);}
 }
 
 @-o-keyframes portrait /* Opera */
 {
-  0%   {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+}
+
+@-ms-keyframes portrait /* Opera */
+{
   100% {transform: rotate(360deg);}
 }
 

@@ -34,5 +34,14 @@ $(document).ready(function() {
         }
     });
 
-
+    $('.portrait').click(function() {
+        var audio = $('#audio')[0];
+        if(audio.paused) {
+            audio.play();
+            $(this).toggleClass('pause');
+        }else{
+            audio.pause();
+            $(this).toggleClass('pause');
+        }
+    });
 });
