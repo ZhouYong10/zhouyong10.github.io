@@ -1,0 +1,201 @@
+<tiltviewergallery>
+    <photos>
+        <photo imageurl="/resources/images/album/C360_2013-12-07-14-46-51-977.jpg" linkurl="http://www.niutuku.com">
+            <title>甜蜜</title>
+            <description>两个人的世界你不懂！</description>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2013-12-07-15-51-48-035.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 2</title>
+            <description><![CDATA[This is a HTML text description. Supported tags are <b>bold</b>, <u>underline</u>, <i>italics</i>, linebreaks<br>and <font color="#ff0000" size="60">font tags</font>. Hyperlinks are not supported.]]></description>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2013-12-07-16-06-48-209.jpg" >
+            <title>Image 3</title>
+            <description>This image has no link button becasue the 'linkurl' property was removed from the photo tag</description>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2013-12-08-23-59-22-215.jpg" linkurl="http://www.niutuku.com" showFlipButton="true">
+            <title>Image 4</title>
+            <description>This image has no flip button because the 'showFlipButton' property was added to the photo tag</description>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2013-12-09-00-00-20-777.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 5</title>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2013-12-09-00-03-50-616.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 6</title>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2013-12-09-00-03-50-616-1.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 7</title>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2013-12-09-09-41-33-968 (1).jpg" linkurl="http://www.niutuku.com">
+            <title>Image 8</title>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2013-12-09-09-41-33-968.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 9</title>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2014-01-31-10-35-58-293.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 10</title>
+        </photo>
+        <photo imageurl="/resources/images/album/C360_2014-02-05-18-28-41-592.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 11</title>
+        </photo>
+        <photo imageurl="/resources/images/album/IMG20141103185135.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 12</title>
+        </photo>
+        <photo imageurl="/resources/images/album/IMG20141215233220.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 13</title>
+        </photo>
+        <photo imageurl="/resources/images/album/IMG20150121193958.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 14</title>
+        </photo>
+        <photo imageurl="/resources/images/album/IMG_20130524_223342.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 15</title>
+        </photo>
+        <photo imageurl="/resources/images/album/IMG_20130605_212201.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 16</title>
+        </photo>
+        <photo imageurl="/resources/images/album/IMG_20130722_071819.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 17</title>
+        </photo>
+        <photo imageurl="/resources/images/album/IMG_20130722_071853.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 18</title>
+        </photo>
+        <photo imageurl="/resources/images/album/IMG_20130722_072049.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 19</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20140927_210530_C4A.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 20</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20140928_103753_F53.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 21</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20140928_103827_A21.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 22</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20140928_104529_C2F.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 23</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20140928_105230_A01.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 24</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20140928_125118_109.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141004_185930_510.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141004_195254_B8D.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_102644_FB3.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_103919_8B2.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_104048_E96.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_105534_257.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_140139_3A9.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_140233_D79.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_142307_DB6.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_152156_88B.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_152210_135.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_152432_F79.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_152445_470.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_152529_FF0.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_152624_80F.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_152627_FD4.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141006_152646_F6B.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141013_095658_03F.jpeg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141019_134442_D12.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141023_083634_FA6.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141101_122840_3C1.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141101_125040_ADB.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141103_185013_BF2.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141103_185115_0E1.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141103_185452_8C1.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141103_185503_845.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141103_185537_C0D.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141104_210521_A8A.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141104_210605_073.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141104_210629_ABD.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141104_210649_D6A.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141104_211458_035.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141104_211546_5AD.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141115_175958_000.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/PIC_20141130_133616_55A.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/0e85d4fe6d.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/7b4cc906b3.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/200ff06c0e.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 25</title>
+        </photo>
+        <photo imageurl="/resources/images/album/69833ed09a.jpg" linkurl="http://www.niutuku.com">
+            <title>Image 26</title>
+            <description>You can visit www.niutuku.com for more info.</description>
+        </photo>
+    </photos>
+</tiltviewergallery>

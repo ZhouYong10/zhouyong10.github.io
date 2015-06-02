@@ -18,7 +18,7 @@ var m3D = function () {
         bar,
         selected,
         urlInfo,
-        imagesPath = "images/",
+        imagesPath = "/resources/images/",
         camera = {x:0, y:0, z:-650, s:0, fov: 500},
         nw = 0,
         nh = 0;

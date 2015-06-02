@@ -10,4 +10,4 @@ twitter_username: jekyllrb
 github_username:  zhouyong10
 
 # Build settings
-markdown: markdown
+markdown: kramdown

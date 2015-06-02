@@ -4,7 +4,7 @@
 <meta name="keywords" content="JS代码,相册代码,JS广告代码,JS特效代码" />
 <meta name="description" content="此代码内容为TiltViewer-3D图片浏览器，属于站长常用代码，更多相册代码代码请访问模板王JS代码频道。" />
 <title>TiltViewer-3D图片浏览器_模板王</title>
-<script type="text/javascript" src="/javascript/swfobject.js"></script>
+<script type="text/javascript" src="/resources/album_styles/swfobject.js"></script>
 <style type="text/css">	
 	/* hide from ie on mac \*/
 	html {
@@ -36,7 +36,7 @@
 	<div id="flashcontent">TiltViewer requires JavaScript and the latest Flash player. <a href="http://www.macromedia.com/go/getflashplayer/">Get Flash here.</a></div>
 	<script type="text/javascript">
 	
-		var fo = new SWFObject("/album_styles/TiltViewer.swf", "viewer", "100%", "100%", "9.0.28", "#000000");
+		var fo = new SWFObject("/resources/album_styles/TiltViewer.swf", "viewer", "100%", "100%", "9.0.28", "#000000");
 		
 		// TILTVIEWER CONFIGURATION OPTIONS
 		// To use an option, uncomment it by removing the "//" at the start of the line
@@ -54,7 +54,7 @@
 		// XML GALLERY OPTIONS
 		// To use local images defined in an XML document, use this block		
 		fo.addVariable("useFlickr", "false");
-		fo.addVariable("xmlURL", "/album_styles" +
+		fo.addVariable("xmlURL", "/resources/album_styles" +
         "/gallery.xml");
 		fo.addVariable("maxJPGSize","640");
 		
