@@ -11,6 +11,7 @@ jQuery对象是一个`类数组对象`,含有连续的整型属性,length属性�
 jQuery构造函数有7种用法,调用构造函数时传入不同的参数,创建jQuery对象的罗辑也会随之不同.jQuery的构造函数如下图所示:
 (可通过下图对本节内容进行导航阅读)
 <img src="/resources/images/jquery/jQueryConstructor.png" usemap="#jQueryConstructor" title="jQuery构造函数"/>
+
 <map id="jQueryConstructor" name="jQueryConstructor">
     <area shape="rect" coords="146,42,296,80" href="#" title="封装普通对象为jQuery对象"/>
     <area shape="rect" coords="480,60,728,116" href="#selector" title="通过选择器查找相应的元素,并封装为jQuery对象"/>
