@@ -10,15 +10,15 @@ jQuery对象是一个`类数组对象`,含有连续的整型属性,length属性�
 
 jQuery构造函数有7种用法,调用构造函数时传入不同的参数,创建jQuery对象的罗辑也会随之不同.jQuery的构造函数如下图所示:
 (可通过下图对本节内容进行导航阅读)
-<img src="/resources/images/jquery/jQueryConstructor.png" usemap="#jQueryConstructor" alt="jQuery构造函数" title="jQuery构造函数">
+<img src="/resources/images/jquery/jQueryConstructor.png" usemap="#jQueryConstructor" title="jQuery构造函数"/>
 <map id="jQueryConstructor" name="jQueryConstructor">
-    <area shape="rect" coords="146,42,296,80" href="#" title="封装普通对象为jQuery对象">
-    <area shape="rect" coords="480,60,728,116" href="#selector" title="通过选择器查找相应的元素,并封装为jQuery对象">
-    <area shape="rect" coords="8,103,260,142" href="#" title="绑定ready事件监听函数,当DOM加载完成时立即执行">
-    <area shape="rect" coords="28,164,260,203" href="#" title="接受一个jQuery对象,返回该对象的拷贝副本">
-    <area shape="rect" coords="158,225,296,264" href="#" title="创建一个空的jQuery对象">
-    <area shape="rect" coords="500,138,784,177" href="#html" title="使用HTML代码创建DOM元素的jQuery对象">
-    <area shape="rect" coords="480,200,698,238" href="#" title="封装DOM元素为jQuery对象">
+    <area shape="rect" coords="146,42,296,80" href="#" title="封装普通对象为jQuery对象"/>
+    <area shape="rect" coords="480,60,728,116" href="#selector" title="通过选择器查找相应的元素,并封装为jQuery对象"/>
+    <area shape="rect" coords="8,103,260,142" href="#" title="绑定ready事件监听函数,当DOM加载完成时立即执行"/>
+    <area shape="rect" coords="28,164,260,203" href="#" title="接受一个jQuery对象,返回该对象的拷贝副本"/>
+    <area shape="rect" coords="158,225,296,264" href="#" title="创建一个空的jQuery对象"/>
+    <area shape="rect" coords="500,138,784,177" href="#html" title="使用HTML代码创建DOM元素的jQuery对象"/>
+    <area shape="rect" coords="480,200,698,238" href="#" title="封装DOM元素为jQuery对象"/>
 </map>
 
 
